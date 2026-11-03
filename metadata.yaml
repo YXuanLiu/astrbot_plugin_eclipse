@@ -1,0 +1,7 @@
+name: astrbot_plugin_eclipse
+display_name: ECLIPSE 星蚀 3.0
+author: ECLIPSE Contributors
+version: 3.0.0
+desc: 基于近期聊天上下文进行多阶段场景识别，并在合适氛围下低频提供主动亲近建议。
+short_desc: 语义场景切换 · 自然亲近 · 防误触发
+astrbot_version: ">=4.24.0,<5"
